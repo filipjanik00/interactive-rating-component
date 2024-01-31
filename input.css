@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.rating-btns button.active {
+  background-color: var(--clr-orange);
+  color: var(--clr-white);
+}
+
+:root {
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-orange: hsl(25, 97%, 53%);
+}
