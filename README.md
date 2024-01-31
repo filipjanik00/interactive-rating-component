@@ -15,7 +15,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Screenshots
 
-![](./screenshots/desktop-preview.png)
+![](./screenshots/desktop-previev.png)
 ![](./screenshots/active-state.png)
 
 ### Links
